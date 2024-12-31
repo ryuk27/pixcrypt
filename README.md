@@ -2,8 +2,8 @@
 
 Welcome to **Pixcrypt**—the superhero of image encryption! 🦸‍♂️🦸‍♀️ This nifty little CLI tool allows you to turn your precious images into a pile of gibberish 🧩 and provides you with a magic key 🗝️ to unlock it later. Because, hey, no one else gets to peek at your pics without your permission!
 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/theninza/pixcrypt?style=for-the-badge)&nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/theninza/pixcrypt?logo=github&style=for-the-badge)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/ryuk27/pixcrypt?style=for-the-badge)&nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/ryuk27/pixcrypt?logo=github&style=for-the-badge)
 ![npm](https://img.shields.io/npm/dt/pixcrypt?style=for-the-badge&logo=npm)
 
 ## Table of Contents
