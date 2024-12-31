@@ -119,6 +119,6 @@ Give it a star on GitHub: https://github.com/ryuk27/pixcrypt
 ## Limitations
 
 Limitations
-PNG Images: Encryption and decryption work like a charm! 🖼️🔐
-JPG/JPEG Images: These formats are a bit cheeky and lossy, so some pixel values may change during the process. But don’t worry, your image will still look nearly identical, just with a few quirky differences. 🤪
-Go ahead and encrypt those images! Have fun, and if you like Pixcrypt, give it a star on GitHub. 🎉
+- PNG Images: Encryption and decryption work like a charm! 🖼️🔐
+- JPG/JPEG Images: These formats are a bit cheeky and lossy, so some pixel values may change during the process. But don’t worry, your image will still look nearly identical, just with a few quirky differences. 🤪
+- Go ahead and encrypt those images! Have fun, and if you like Pixcrypt, give it a star on GitHub. 🎉
