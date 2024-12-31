@@ -4,7 +4,6 @@ Welcome to **Pixcrypt**—the superhero of image encryption! 🦸‍♂️🦸�
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ryuk27/pixcrypt?style=for-the-badge)&nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/ryuk27/pixcrypt?logo=github&style=for-the-badge)
-![npm](https://img.shields.io/npm/dt/pixcrypt?style=for-the-badge&logo=npm)
 
 ## Table of Contents
 
