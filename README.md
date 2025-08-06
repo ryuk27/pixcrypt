@@ -54,9 +54,9 @@ pixcrypt <command> [option]
 - **`-c, --clear`**: Clear the console (because who likes clutter?) 
 - **`--noClear`**: Don't clear the console, if you're feeling rebellious. 
 - **`-v, --version`**: Show off the Pixcrypt version (you're probably using the coolest one!). 
-- **`-k, --key`**: Provide the key you saved to decrypt your masterpiece. 🗝
+- **`-k, --key`**: Provide the key you saved to decrypt your masterpiece. 
 - **`-i, --outputImageFileName`**: Name your encrypted (or decrypted) image like a true artist. 
-- **`-p, --outputKeyFileName`**: Name the key file (because it's important!). 🗃️
+- **`-p, --outputKeyFileName`**: Name the key file (because it's important!). 
 
 ## Examples
 
