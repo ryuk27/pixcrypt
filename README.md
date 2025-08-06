@@ -1,6 +1,6 @@
 # Pixcrypt
 
-Welcome to **Pixcrypt**—the superhero of image encryption! 🦸‍♂️🦸‍♀️ This nifty little CLI tool allows you to turn your precious images into a pile of gibberish 🧩 and provides you with a magic key 🗝️ to unlock it later. Because, hey, no one else gets to peek at your pics without your permission!
+Welcome to **Pixcrypt**—the superhero of image encryption! This nifty little CLI tool allows you to turn your precious images into a pile of gibberish and provides you with a magic key to unlock it later. Because, hey, no one else gets to peek at your pics without your permission!
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ Welcome to **Pixcrypt**—the superhero of image encryption! 🦸‍♂️🦸�
 
 ## Tech Stack
 
-Built with the magic of **Node.js**! 🎩✨
+Built with the magic of **Node.js**!
 
 ![Node](https://img.shields.io/badge/NodeJS-05122A?style=for-the-badge&logo=node.js)&nbsp;
 
@@ -45,17 +45,17 @@ pixcrypt <command> [option]
 
 ### Commands
 
-- **`help`**: Need a hand? This will show you all the cool things Pixcrypt can do! 😎
+- **`help`**: Need a hand? This will show you all the cool things Pixcrypt can do!
 
 ### Options
 
-- **`-e, --encrypt`**: Turn your image into a mystery! 🔒
-- **`-d, --decrypt`**: Unlock the mystery with your magic key 🗝️
-- **`-c, --clear`**: Clear the console (because who likes clutter?) 💨
-- **`--noClear`**: Don't clear the console, if you're feeling rebellious. 😎
-- **`-v, --version`**: Show off the Pixcrypt version (you're probably using the coolest one!). 🎉
-- **`-k, --key`**: Provide the key you saved to decrypt your masterpiece. 🗝️
-- **`-i, --outputImageFileName`**: Name your encrypted (or decrypted) image like a true artist. 🎨
+- **`-e, --encrypt`**: Turn your image into a mystery! 
+- **`-d, --decrypt`**: Unlock the mystery with your magic key 
+- **`-c, --clear`**: Clear the console (because who likes clutter?) 
+- **`--noClear`**: Don't clear the console, if you're feeling rebellious. 
+- **`-v, --version`**: Show off the Pixcrypt version (you're probably using the coolest one!). 
+- **`-k, --key`**: Provide the key you saved to decrypt your masterpiece. 🗝
+- **`-i, --outputImageFileName`**: Name your encrypted (or decrypted) image like a true artist. 
 - **`-p, --outputKeyFileName`**: Name the key file (because it's important!). 🗃️
 
 ## Examples
